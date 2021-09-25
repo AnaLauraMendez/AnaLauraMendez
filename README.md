@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @AnaLauraMendez
-- 👀 I’m interested in machine learning and game development
+- 👀 I’m interested in machine learning and data's world
 - 🌱 I’m currently learning software development 
-- 📫 How to reach me ---> anamendez.dev@gmail.com 
+- 📫 How to reach me:
+anamendez.dev@gmail.com/
+anamendez.dev@outlook.es/
+linkedin.com/in/ana-laura-mendez/
                      
 
 <!---
